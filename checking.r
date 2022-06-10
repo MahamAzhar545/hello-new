@@ -6,3 +6,6 @@ version= "r programming"
 
 print(name)
 print ("these lines are written")
+
+fatima ="haya"
+print (fatima)
